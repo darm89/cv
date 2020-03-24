@@ -1,0 +1,42 @@
+body{
+  background-color: #d45d79;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#e9e2d0;
+  border-width: 6px;
+  width: 5%;
+
+}
+
+h1{
+  color: #512b58;
+  font-family: Arial, sans-serif;
+}
+
+h3{
+  color: #ea9085;
+  font-family: Arial, sans-serif;
+}
+
+p{
+  color:#311d3f;
+  font-family: Arial, serif;
+}
+
+table{
+  color: #311d3f;
+  font-family: Arial, serif;
+}
+
+li{
+  color: #311d3f;
+  font-family: Arial, serif;
+}
+
+label{
+  color: #311d3f;
+  font-family: Arial, serif;
+}
